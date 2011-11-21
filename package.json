@@ -19,6 +19,7 @@
         "oauth": ""
       , "colors": ""
 			, "nomnom": ""
+			, "underscore" : ""
     },
     "main" : "./lib/nyam",
     "bin":          {
