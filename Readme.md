@@ -8,7 +8,7 @@ Installation
 
 With [npm](http://github.com/isaacs/npm):
 
-    npm install nyam
+    npm install yammerterm
 
 == Setup ==
 First you need to get a copy of the app's keys and put it at
@@ -17,20 +17,20 @@ First you need to get a copy of the app's keys and put it at
 
 Then you need to authenticate with your yammer account:
 
-    nyam setup
+    yam setup
 
 And follow the instructions.
 
 
 == Examples ==
 
-$> nyam feed
+$> yam feed
 
-$> nyam post "to:yamjsteam team,"
+$> yam post "to:yamjsteam team,"
 
-$> echo "#shamehat" | nyam post
+$> echo "#shamehat" | yam post
 
-$> nyam notifications
+$> yam notifications
 
 
 
