@@ -2,8 +2,8 @@
     "name":         "yammerterm",
     "description":  "Yammer CLI tool using node.js",
     "keywords":     ["yammer", "cli", "github", "tools"],
-    "author":       ["Christian Sanz <chris@geekli.st>", "Peter Braden <hi@peterbraden.co.uk>"],`
-    "version":      "0.0.7",
+    "author":       ["Christian Sanz <chris@geekli.st>", "Peter Braden <hi@peterbraden.co.uk>"],
+    "version":      "0.0.8",
     "licenses":     [{
       "type":       "MIT",
       "url":        "http://github.com/peterbraden/nyam/raw/master/LICENSE"
