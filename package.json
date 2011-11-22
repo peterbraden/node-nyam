@@ -1,16 +1,16 @@
 {
-    "name":         "nyam",
+    "name":         "yammerterm",
     "description":  "Yammer CLI tool using node.js",
     "keywords":     ["yammer", "cli", "github", "tools"],
-    "author":       ["Christian Sanz <chris@geekli.st>", "Peter Braden <hi@peterbraden.co.uk>"]
+    "author":       ["Christian Sanz <chris@geekli.st>", "Peter Braden <hi@peterbraden.co.uk>"],`
     "version":      "0.0.7",
     "licenses":     [{
       "type":       "MIT",
-      "url":        "http://github.com/csanz/nyam/raw/master/LICENSE"
+      "url":        "http://github.com/peterbraden/nyam/raw/master/LICENSE"
     }],
     "repository": {
       "type": "git",
-      "url": "http://github.com/csanz/nyam.git" 
+      "url": "http://github.com/peterbraden/nyam.git" 
     },
     "engines":      {
       "node":       ">=0.4.0"
@@ -23,6 +23,7 @@
     },
     "main" : "./lib/nyam",
     "bin":          {
-      "nyam":       "./lib/cli.js"
+      "yam":       "./lib/cli.js"
     }
 }
+ 
