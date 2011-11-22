@@ -1,1 +1,1 @@
-echo git log -1 HEAD
+echo "`whoami` just committed `git log -1 HEAD` to yammerterm" | yam post
